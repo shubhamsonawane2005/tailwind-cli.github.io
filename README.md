@@ -10,6 +10,19 @@ enter
 git push origin main
 enter
 
+Method 2:
+folder - computer <br>
+git init <br>
+enter <br>
+git remote add <link> <br>
+enter <br>
+git add . <br>
+enter <br>
+git commit -m "tailwind-cli" <br>
+enter <br>
+git push origin master <br>
+enter <br>
+
 
 #Tailwind css CLI
 
