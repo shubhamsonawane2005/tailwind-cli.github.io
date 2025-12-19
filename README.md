@@ -1,14 +1,14 @@
 Method 1: 
-git - repo create
-enter
-git clone <Link>
-enter
-git add . / git add index.html
-enter
-git commit -m "msg"
-enter
-git push origin main
-enter
+git - repo create <br>
+enter <br>
+git clone <Link> <br>
+enter <br>
+git add . / git add index.html <br>
+enter <br>
+git commit -m "msg" <br>
+enter <br>
+git push origin main <br>
+enter <br>
 
 Method 2:
 folder - computer <br>
@@ -21,6 +21,18 @@ enter <br>
 git commit -m "tailwind-cli" <br>
 enter <br>
 git push origin master <br>
+enter <br>
+
+Method 3:
+git branch --> how many branch in repo <br>
+enter <br>
+git branch <branch name> <br>
+ ex: git branch devlopment <br>
+enter <br>
+git branch <br>
+enter <br>
+git checkout <branch name> <br>
+ ex:git checkout devlopment <br>
 enter <br>
 
 
